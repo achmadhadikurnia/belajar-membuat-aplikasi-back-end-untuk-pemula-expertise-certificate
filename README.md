@@ -9,10 +9,8 @@ Bookshelf API
 
 ## Certificate
 
-<!-- [View](https://www.dicoding.com/certificates/ERZRM61YQPYV) -->
+<!-- [View](https://www.dicoding.com/certificates/xxx) -->
 
 ## Screenshots
 
-<!-- ![screenshot_1.png](/screenshots/screenshot_1.png) -->
-
-<!-- ![screenshot_2.png](/screenshots/screenshot_2.png) -->
+<!-- ![screenshot.png](/screenshots/screenshot.png) -->
