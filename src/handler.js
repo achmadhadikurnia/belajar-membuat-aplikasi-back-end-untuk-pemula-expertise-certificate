@@ -71,7 +71,7 @@ const addBookHandler = (request, h) => {
   return response;
 };
 
-const getAllBooksHandler = (request, h) => {
+const getBooksHandler = (request, h) => {
   const { name, reading, finished } = request.query;
 
   let filteredBooks = books;
@@ -216,7 +216,7 @@ const deleteBookByIdHandler = (request, h) => {
 
 module.exports = {
   addBookHandler,
-  getAllBooksHandler,
+  getBooksHandler,
   getBookByIdHandler,
   editBookByIdHandler,
   deleteBookByIdHandler,
