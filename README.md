@@ -8,9 +8,7 @@ Pelajari dasar dalam membangun RESTful API, dari HTTP server, routing, hingga me
 Bookshelf API
 
 ## Certificate
-
 [View](https://www.dicoding.com/certificates/MEPJVKL6QP3V)
 
 ## Screenshots
-
 ![screenshot_1.png](/screenshots/screenshot_1.png)
